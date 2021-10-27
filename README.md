@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Senthur Athiban (𝕛𝕒𝕧𝕒𝕤𝕔𝕣𝕚𝕡𝕥 dєvєlσpєr)
+- 👋 Hi, I’m Senthur Athiban ( 𝕛𝕒𝕧𝕒𝕤𝕔𝕣𝕚𝕡𝕥 dєvєlσpєr )
 - 👀 I’m interested in Javascript & web development.
 - 🌱 I’m currently learning Typescript/GraphQL
 - ⤵️ Want to reach me?
