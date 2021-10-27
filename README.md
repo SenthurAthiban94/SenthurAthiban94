@@ -1,6 +1,10 @@
 - 👋 Hi, I’m Senthur Athiban ( 𝕛𝕒𝕧𝕒𝕤𝕔𝕣𝕚𝕡𝕥 dєvєlσpєr )
 - 👀 I’m interested in Javascript & web development.
 - 🌱 I’m currently learning Typescript/GraphQL
+- 📚 Recent Projects
+  - ✅ more-less NPM package - https://www.npmjs.com/package/more-less
+  - ✅ Haha Products - https://hahaproduct.in
+  - ✅ Truecaller Blog - https://truecaller-blog-eight.vercel.app
 - ⤵️ Want to reach me?
   - ✉️ Email: senthurathiban@gmail.com
   - 👥 LinkedIn: https://www.linkedin.com/in/senthur-athiban-181a85b2
